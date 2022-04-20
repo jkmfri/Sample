@@ -3,6 +3,8 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 
+//https://programmers.co.kr/learn/courses/30/lessons/92334
+//신고 결과 받기
 public class Programers_92334 {
     public static void main(String[] args) {
 
